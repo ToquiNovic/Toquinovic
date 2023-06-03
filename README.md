@@ -1,4 +1,4 @@
-<h2> Hi, I'm Daniel Toquica! <img src="https://media.giphy.com/media/dvkFZr4VBBS6I/giphy.gif" width="30"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Daniel+Toquica!++%F0%9F%9B%B0%F0%9F%93%A1)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="60"> A little more about me...  
 
@@ -23,27 +23,29 @@ const Toqui = {
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=black">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo">
+
 </p>
 
 <h4>Frontend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Material UI-0a1929.svg?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-8713f4.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React logo">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo">
+<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI logo">
+<img src="https://img.shields.io/badge/Bootstrap-8713F4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo">
+
 </p>
 
 <h4>Backend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-0f6aa3?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo">
+    <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose logo">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo">
 </p>
 
 <h4>Tools & Technologies</h4>
@@ -64,3 +66,5 @@ const Toqui = {
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToquiNovic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
+
+<img src="https://media.giphy.com/media/dvkFZr4VBBS6I/giphy.gif" width="30">
