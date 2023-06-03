@@ -15,7 +15,7 @@ const Toqui = {
         databases: ["MongoDB", "MySql", "Postgres"],
     },
      description: {
-        'Actualmente hago parte del equipo de desarrolladores del Semillero R3D la Universidad de la Amazonia'},
+        'Actualmente hago parte del equipo de desarrolladores del Semillero R3D de la Universidad de la Amazonia'},
 };
 ```
   
