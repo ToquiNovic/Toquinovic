@@ -10,7 +10,7 @@ const Toqui = {
             js: ["Node", "Express"],
         },
         frontEnd: {
-            js: ["React", "Redux", "Material UI", "Bootstrap"]
+            js: ["React", "Redux", "Material UI", "Bootstrap", "Astro"]
         },
         databases: ["MongoDB", "MySql", "Postgres"],
     },
@@ -35,6 +35,7 @@ const Toqui = {
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo">
 <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI logo">
 <img src="https://img.shields.io/badge/Bootstrap-8713F4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo">
+<img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white" alt="Astro logo">
 
 </p>
 
