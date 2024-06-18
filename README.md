@@ -23,6 +23,8 @@ const Toqui = {
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=black">
+    <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo">
 
 </p>
@@ -36,6 +38,7 @@ const Toqui = {
 <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI logo">
 <img src="https://img.shields.io/badge/Bootstrap-8713F4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo">
 <img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white" alt="Astro logo">
+<img src="https://img.shields.io/badge/leaflet-2f74c0?style=for-the-badge&logo=leaflet&logoColor=green" alt="leaflet logo">
 
 </p>
 
@@ -56,6 +59,7 @@ const Toqui = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Railway-131414?style=for-the-badge&logo=railway&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-f4f4f4?style=for-the-badge&logo=vercel&logoColor=black">
+    <img src="https://img.shields.io/badge/geoserver-96c73e?style=for-the-badge&logo=geoserver&logoColor=green">
 </p>
 
   
