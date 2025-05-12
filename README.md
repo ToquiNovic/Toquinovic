@@ -15,7 +15,7 @@ const Toqui = {
         databases: ["MongoDB", "MySql", "Postgres"],
     },
      description: {
-        'Actualmente hago parte del equipo de control de calidad del informacion en el IGAC'},
+        'Actualmente hago parte del equipo de control de calidad de la informacion en el IGAC'},
 };
 ```
   
