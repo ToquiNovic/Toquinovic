@@ -41,6 +41,8 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px"> Contacto y Redes
 
+<h2 align="center">🤝 Contacto y Redes</h2>
+
 <p align="center">
   <a href="mailto:toquinovic@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="40px" />
@@ -52,6 +54,10 @@
   &nbsp;&nbsp;
   <a href="https://github.com/toquinovic" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://danieltoquica-dev.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/resume.png" alt="CV" width="40px" />
   </a>
 </p>
 
